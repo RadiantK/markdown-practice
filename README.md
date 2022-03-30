@@ -57,9 +57,9 @@ _이텔릭_
 
  # 이미지(Images)
 
- ![HEROPY](https://heropy.blog/css/images/logo.png)
+ ![radiantk](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEujeY%2Fbtrx2SIBuoO%2FK8pBzV2W7wTTFqytvbUzf0%2Fimg.png)
 
- [![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+ [![radiantk](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEujeY%2Fbtrx2SIBuoO%2FK8pBzV2W7wTTFqytvbUzf0%2Fimg.png)](https://radiantk.tistory.com/)
 
  # 인용문(BlockQuote)
 
@@ -125,7 +125,7 @@ fixed | 뷰포트 | x
 
 ---
 
-  <img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY" />
+  <img width="70" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEujeY%2Fbtrx2SIBuoO%2FK8pBzV2W7wTTFqytvbUzf0%2Fimg.png" alt="radiantk" />
 
   # 수평선(Horizontal Rule)
 
